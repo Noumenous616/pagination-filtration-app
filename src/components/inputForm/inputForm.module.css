@@ -1,0 +1,22 @@
+.formBody {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 10px 0px 0px 0px;
+
+}
+.formBodyRows {
+    padding: 0px 20px 0px 0px;
+}
+
+.buttonAdd{
+
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+input {
+    outline: none;
+    border: none;
+    border: solid 1px #f2f2f2;
+}
